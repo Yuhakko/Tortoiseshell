@@ -1,0 +1,28 @@
+body{
+  font-size: 18px;
+  line-height: 1.4;
+  width: 960px;
+}
+
+header{
+
+  background-color: cadetblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-weight: bold;
+}
+
+.companyname{
+  display: flex;
+  font-family: Helvetica sans-sans-serif;
+  font-size: 1rem;
+  align-items: center;
+}
+
+.companyname img{
+  height: 1.5rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
+}
